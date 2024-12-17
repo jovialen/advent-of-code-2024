@@ -1,0 +1,16 @@
+# Ignore all files without an ending
+*
+
+!*.*
+!*/
+
+# Build dirs
+[Bb]in/
+[Bb]uild/
+
+# Haskell, C and C++
+*.hi
+*.o
+
+# Python
+__py_cache__
