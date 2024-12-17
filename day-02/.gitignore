@@ -1,0 +1,12 @@
+# Ignore all files without endings
+*
+!*.*
+!*/
+
+# Build files
+bin/
+build/
+
+# Haskell
+*.o
+*.hi
